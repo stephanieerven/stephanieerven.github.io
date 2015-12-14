@@ -4,3 +4,6 @@
 [submodule "electricDreams"]
 	path = electricDreams
 	url = https://github.com/stephanieerven/electricDreams.git
+[submodule "jqueryFAQ"]
+	path = jqueryFAQ
+	url = https://github.com/stephanieerven/jqueryFAQ.git
