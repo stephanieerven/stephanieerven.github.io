@@ -10,3 +10,6 @@
 [submodule "slider"]
 	path = slider
 	url = https://github.com/stephanieerven/slider.git
+[submodule "lightbox"]
+	path = lightbox
+	url = https://github.com/stephanieerven/lightbox.git
