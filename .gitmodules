@@ -1,3 +1,6 @@
 [submodule "MADlibs"]
 	path = MADlibs
 	url = https://github.com/stephanieerven/MADlibs.git
+[submodule "electricDreams"]
+	path = electricDreams
+	url = https://github.com/stephanieerven/electricDreams.git
