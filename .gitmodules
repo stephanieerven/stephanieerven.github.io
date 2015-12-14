@@ -7,3 +7,6 @@
 [submodule "jqueryFAQ"]
 	path = jqueryFAQ
 	url = https://github.com/stephanieerven/jqueryFAQ.git
+[submodule "slider"]
+	path = slider
+	url = https://github.com/stephanieerven/slider.git
