@@ -13,3 +13,6 @@
 [submodule "lightbox"]
 	path = lightbox
 	url = https://github.com/stephanieerven/lightbox.git
+[submodule "timing"]
+	path = timing
+	url = https://github.com/stephanieerven/timing.git
